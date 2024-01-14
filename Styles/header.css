@@ -1,0 +1,41 @@
+header {
+    height: 9px;
+    width: 100%;
+    background-color:#e5d086;
+    color: #6d0233;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.6;
+}
+
+img{
+    height: 20px;
+}
+
+ul {
+    list-style:none ;
+    display: flex;
+}
+ul li{
+    margin-left: 15px;
+}
+a{
+    text-decoration: none;
+    color: #6d0233;  
+}
+ul li a{
+    text-decoration: none;
+    color: #6d0233;
+}
+
+a:hover{
+    text-decoration: underline;
+}
