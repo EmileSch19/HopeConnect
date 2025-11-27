@@ -1,5 +1,5 @@
 // src/components/Footer.jsx
-import "../styles/footer.css";
+import "../styles/global.css";
 import logo from "../assets/Images/logo.png";
 
 function Footer() {

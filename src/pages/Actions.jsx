@@ -1,5 +1,5 @@
 // src/pages/Actions.jsx
-import "../styles/action.css";
+import "../styles/global.css";
 import solidarite from "../assets/Images/solidarité.jpg";
 import benevolat from "../assets/Images/benevolat.jpg";
 import donAliment from "../assets/Images/don_aliment.jpg";

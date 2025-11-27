@@ -1,5 +1,5 @@
 // src/pages/Apropos.jsx
-import "../styles/apropos.css";
+import "../styles/global.css";
 
 function Apropos() {
   return (

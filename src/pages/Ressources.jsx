@@ -1,5 +1,5 @@
 // src/pages/Ressources.jsx
-import "../styles/ressources.css";
+import "../styles/global.css";
 
 function Ressources() {
   return (

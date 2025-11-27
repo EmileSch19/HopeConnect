@@ -1,5 +1,5 @@
 // src/pages/Home.jsx
-import "../styles/home.css";
+import "../styles/global.css";
 import cover from "../assets/Images/Sans_habrits.jpg";
 
 function Home() {
